@@ -6,5 +6,7 @@ Dataset Information:
 - it contained five adverse effects: headache, abdominal pain, dyspepsia, upper respiratory infection, chronic obstructive airway disease (COAD), demographic data, vital signs, lab measures, etc. 
 - the ratio of drug observations to placebo observations is 2 to 1
 
-Project adopted from: datacamp
+Project adopted from: Datacamp
+
+
 
