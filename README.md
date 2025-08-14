@@ -1,4 +1,4 @@
-# Hypothesis Testing in Healthcare: Drug Safety
+<img width="484" height="516" alt="image" src="https://github.com/user-attachments/assets/f5de26be-33e9-4cd2-a8b6-36f876e6f138" /># Hypothesis Testing in Healthcare: Drug Safety
 Investigating the drug safety from a hypothetical pharmaceutical company GlobalXYZ which has just completed a randomized controlled drug trial. 
 
 Dataset Information:
@@ -7,7 +7,13 @@ Dataset Information:
 - other information include: demographic data, vital signs, lab measures, etc. 
 - the ratio of drug observations to placebo observations is 2 to 1
 
+Main Statistical Methods:
+- Two-sample proportion z-test
+- Normality test: histogram, q-q plot, Shapiro-Wilk test
+- Mann Whitney U test
+  
 Project adopted from: Datacamp
+
 
 
 
