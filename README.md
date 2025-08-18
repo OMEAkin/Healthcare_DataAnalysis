@@ -1,5 +1,5 @@
 # Hypothesis Testing in Healthcare: Drug Safety
-Investigating the drug safety from a hypothetical pharmaceutical company GlobalXYZ which has just completed a randomized controlled drug trial. 
+An investigation into the safety outcomes of a drug developed by the hypothetical pharmaceutical company GlobalXYZ, following the completion of a randomized controlled trial.
 
 Dataset Information:
 - the dataset `drug_safety.csv` was obtained from [Hbiostat](https://hbiostat.org/data/) courtesy of the Vanderbilt University Department of Biostatistics
@@ -13,6 +13,7 @@ Main Statistical Methods:
 - Mann Whitney U test
   
 Project adopted from: Datacamp
+
 
 
 
